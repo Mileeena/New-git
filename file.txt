@@ -3,7 +3,12 @@ master master master
 master master master
 master master master
 
+<<<<<<< HEAD
 master2 master master
 master2 master master
 master2 master master
 master2 master master
+=======
+sss1 sss1 sss1 sss1
+sss1 sss1 sss1 sss1
+>>>>>>> 92d43af036c66722b1475d87b57e77d24451189f
